@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/SaralDB/main/assets/logo.png" width="120" />
+  <img src="https://raw.githubusercontent.com/abhijadon/SaralDB/assets/logo.jpeg" width="120" />
 </p>
 
 <h1 align="center">🇮🇳 SaralDB</h1>
@@ -23,6 +23,7 @@
 **SaralDB** is a lightweight, MongoDB-like **document database engine** built from scratch in **Rust**.
 
 It is designed to handle **millions of records** with:
+
 - Fast inserts
 - Crash-safe storage
 - In-memory caching
@@ -39,7 +40,7 @@ It is designed to handle **millions of records** with:
 ✅ Crash-safe recovery (disk replay)  
 ✅ In-memory MemTable for fast access  
 ✅ Designed for high write throughput  
-✅ Clean, modular Rust architecture  
+✅ Clean, modular Rust architecture
 
 ---
 
