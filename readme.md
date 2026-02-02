@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/bharatdb/main/assets/logo.png" width="120" />
+  <img src="https://raw.githubusercontent.com/your-username/SaralDB/main/assets/logo.png" width="120" />
 </p>
 
-<h1 align="center">🇮🇳 BharatDB</h1>
+<h1 align="center">🇮🇳 SaralDB</h1>
 
 <p align="center">
   <b>India-first, high-performance document database written in Rust</b><br/>
@@ -18,9 +18,9 @@
 
 ---
 
-## 🚀 What is BharatDB?
+## 🚀 What is SaralDB?
 
-**BharatDB** is a lightweight, MongoDB-like **document database engine** built from scratch in **Rust**.
+**SaralDB** is a lightweight, MongoDB-like **document database engine** built from scratch in **Rust**.
 
 It is designed to handle **millions of records** with:
 - Fast inserts
