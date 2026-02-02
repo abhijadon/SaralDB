@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhijadon/SaralDB/main/assets/logo.jpeg" width="120" />
+  <img src="https://raw.githubusercontent.com/abhijadon/SaralDB/main/assets/logo.jpeg" width="auto" />
 </p>
 
 <h1 align="center">🇮🇳 SaralDB</h1>
