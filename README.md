@@ -1,36 +1,73 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhijadon/SaralDB/main/assets/logo.jpeg" height="80" />
+</p>
 
-## Getting Started
+<h1 align="center">🇮🇳 SaralDB</h1>
 
-First, run the development server:
+<p align="center">
+  <b>India-First High-Performance Document Database</b><br/>
+  Built for AI workloads, CRMs, EdTech platforms, and data-intensive applications.
+</p>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+<p align="center">
+  <img src="https://img.shields.io/badge/status-active-success" />
+  <img src="https://img.shields.io/badge/language-Rust-orange" />
+  <img src="https://img.shields.io/badge/storage-Append--Only-blue" />
+  <img src="https://img.shields.io/badge/license-MIT-green" />
+</p>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+# 🚀 What is SaralDB?
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+**SaralDB** is a lightweight, MongoDB-inspired document database engine built from scratch in **Rust**.
 
-## Learn More
+It is designed to handle **millions of records efficiently**, with:
 
-To learn more about Next.js, take a look at the following resources:
+- ⚡ High write throughput  
+- 🧠 In-memory caching  
+- 💾 Crash-safe disk storage  
+- 📈 Future-ready indexing system  
+- 🔍 Optimized data retrieval  
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+SaralDB focuses on modern use cases like:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- AI data storage
+- CRM systems
+- EdTech platforms
+- Analytics dashboards
+- SaaS backend systems
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+# 🧠 Core Philosophy
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+> Simple to use. Fast by design. Built for scale.
+
+SaralDB follows three principles:
+
+1. Performance First
+2. Simplicity Over Complexity
+3. Built for Indian-scale products
+
+---
+
+# ✨ Key Features
+
+- ✅ Schema-less document storage (JSON-like)
+- ✅ Append-only binary storage engine
+- ✅ Crash-safe recovery (disk replay mechanism)
+- ✅ In-memory MemTable for fast reads
+- ✅ Designed for heavy write workloads
+- ✅ Modular Rust architecture
+- 🔄 Future indexing engine (B+ tree / LSM style)
+- 📊 Reporting-ready storage format
+
+---
+
+# 🏗 Architecture Overview
+
+SaralDB uses a layered architecture:
+
+<!-- this is my discord link -->
+https://discord.gg/xydepExn
